@@ -27,13 +27,13 @@ except ImportError:
     Assets = None
 
 # --- КОНФИГУРАЦИЯ ---
-API_TOKEN = '8517096384:AAEE8Kr7gCs6MVntniQK1u9T6YQajlgnVP4'
+API_TOKEN = '8604631055:AAHOgN_OukMzDoWkpWtiT-O9ZUKqpp2Tqb4'
 API_ID = 20652575
 API_HASH = 'c0d5c94ec3c668444dca9525940d876d'
 ADMIN_ID = 7785932103
 LOG_CHAT_ID = ADMIN_ID
 CRYPTO_PAY_TOKEN = '540011:AARTDw8jiNvxfbJNrCKkEp4l6l50XTuJOYX'
-SUPPORT_URL = "https://t.me/Dutsi18"
+SUPPORT_URL = "https://t.me/stv18"
 STAR_RATE = 0.02
 
 # ─── БОТЫ-НАБЛЮДАТЕЛИ (до 3 токенов, уведомляют об событиях) ─────────────────
